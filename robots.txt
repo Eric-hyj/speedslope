@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /assets/
+
+Sitemap: https://speedslope.online/sitemap.xml
